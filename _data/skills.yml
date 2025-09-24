@@ -1,12 +1,22 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: CRM Systems
+  description: Experienced in setting up, customising and managing CRM platforms to streamline sales and marketing processes and improve customer engagement.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Marketing
+  description: Knowledgeable in digital marketing strategies, from campaign planning to execution and analysis. Hands-on experience with social media marketing, email marketing, and content marketing.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Artificial Intelligence
+  description: Practical experience in leveraging AI tools and technologies to enhance business operations, improve customer experiences, and assist in content creation.
+
+- skill: Automation
+  description: Skilled in designing and implementing automation workflows using tools like Zapier and N8N to optimise business processes, reduce manual tasks, and improve efficiency.
+
+- skill: Website development
+  description: Capable of building & maintaining functional and visually appealing websites & landing pages.
+
+- skill: Events management
+  description: Capable of planning, promoting, and delivering business and leisure events.
+  noprint: true
