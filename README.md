@@ -20,7 +20,8 @@ To test locally, run the following in your terminal:
 To test locally with docker, run the following in your terminal after installing docker into your system:
 
 1. `docker image build -t resume-template .`
-2. `docker run --rm --name resume-template -v "$PWD":/home/app --network host resume-template`
+2. `docker run --rm --name resume-template -p 4000:4000 -v "$PWD":/home/app resume-template`
+3. Open your browser to `http://127.0.0.1:4000`
 
 ### Customizing
 
