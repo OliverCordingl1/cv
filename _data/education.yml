@@ -1,14 +1,21 @@
-# Degree
-- degree: Level 4 Marketing Executive Apprenticeship
+# Education & Qualifications
+- degree: L4 Marketing Executive Apprenticeship
   uni: Cambridge Marketing College
-  year: 2023 &mdash; 2025
-  # awards:
-  #   - award: Summa Cumme Laude graduate
-  summary: Completed the Level 4 Marketing Executive qualification, gaining a clear understanding of how to plan and deliver effective marketing. Learned to use key frameworks such as the marketing mix (7Ps), STP (segmentation, targeting, positioning), SWOT/PESTLE analysis, and customer journey mapping to create clear, data-driven campaigns.
+  year: Completed September 2025
+  summary: Practical qualification focused on planning and delivering effective marketing strategy and operations.
 
-- degree: A Levels
-  uni: High Pavement Sixth Form College
+- degree: Mastering AI & Metaverse Marketing
+  uni: Cambridge Marketing College
+  year: 2024
+
+- degree: A Level Computer Science (Grade B)
+  uni: Nottingham College
+  year: 2022
+
+- degree: Extended Project Qualification (Grade B)
+  uni: Nottingham College
   year: 2023
-  awards:
-    - award: Computer Science, Extended Project Qualification
-  # summary: You can choose to have either a single or multiple awards
+
+- degree: Fundamentals of Digital Marketing
+  uni: Google Digital Garage
+  year: 2023

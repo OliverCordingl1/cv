@@ -1,16 +1,28 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: GoParking.me - Parking Management Platform
+  role: Designer, Architect and Full-Stack Developer
+  duration: 2025 &mdash; Present
+  url: "https://goparking.me"
+  description: >-
+    Designed, architected and built a web-based parking management platform from
+    scratch for a 121-unit residential building, now used in production.
+    Implemented multi-tenant architecture with tenant-isolated relational schema
+    design, backend logic for permits/bays/vehicles, and rule-based validation
+    workflows. Built QR-code parking passes tied to number plates and usage
+    constraints, plus internal admin tooling for rule management and exception
+    handling. Integrated third-party printing and fulfilment APIs, and continue
+    shipping near-zero-downtime updates. The platform handles 200-300
+    validations per month and replaced manual enforcement processes. Tech stack:
+    Next.js, Node.js, MySQL, external API integrations.
 
-# jazznotes.io
-# - project: jazznotes.io
-#   role: Founder & Primary Developer
-#   duration: 2012 &mdash; Present
-#   # url: "#"
-#   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# # Springfield Community Outreach Group
-# - project: Springfield Community Outreach Group
-#   role: Co-Founder & Organizer
-#   duration: 2007 &mdash; Present
-#   # url: "#"
-#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Automated PDF Quote Generator
+  role: Developer
+  duration: 2025 &mdash; Present
+  description: >-
+    Built an internal proposal generation tool integrated with CRM data and
+    sales-call transcripts. Implemented transcript extraction and structuring,
+    AI-assisted requirement interpretation using vector search, and automated
+    generation of formatted proposals from reusable HTML/CSS templates. Added
+    validation and standardised output structure to improve consistency across
+    generated documents while significantly reducing manual quote preparation
+    time.

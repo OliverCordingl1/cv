@@ -1,6 +1,6 @@
 # Site settings
 title: "Oliver Cordingley"
-description: "Oliver Cordingley is a multi-skilled Marketer & CRM Executive based in Nottingham, UK. and is currently available for new opportunities."
+description: "Oliver Cordingley is a junior-mid level full-stack developer based in Nottingham, UK, with a backend focus and production engineering experience."
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Oliver Cordingley"
-resume_title:                   "CRM Executive"
+resume_title:                   "Full-Stack Developer (Backend Focus)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "olivercordingley@me.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       ""
+resume_contact_telephone:       "07584 916353"
 resume_contact_address:         "Nottingham, UK"
 
-resume_header_contact_info:     ""
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Nottingham, UK &bull; 07584 916353 &bull; <a href='https://olivercordingley.co.uk'>olivercordingley.co.uk</a>"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Adaptable and technical-minded early-career professional with a strong interest in CRM systems, automation and process improvement. I am recently qualified with a Level 4 Marketing Executive Apprenticeship, with over two years of hands-on CRM management experience.</p><p>Skilled in automating business functions, building customer journeys and using data to improve efficiency. Conscientious, curious and a team player eager to develop within marketing operations, CRM or business systems roles.</p>"
+resume_header_intro: "<p>Junior-mid level full-stack developer with a backend focus, experienced in designing, building and maintaining production systems used by real users. Strong in JavaScript/TypeScript, Node.js and React/Next.js, with practical experience in relational schema design, API-led integrations and automation workflows.</p><p>Comfortable owning projects end to end, from requirements and system design through implementation, testing, deployment and ongoing maintenance. Keen to grow in a collaborative engineering team with strong technical standards. References available on request.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,9 +35,9 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
+resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           true
 resume_section_associations:    false
 # resume_section_interests:       true
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/oliver-cordingley"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://olivercordingley.co.uk"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      false
 

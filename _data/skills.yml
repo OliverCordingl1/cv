@@ -1,22 +1,15 @@
 # Skills
-# Organizational leadership
-- skill: CRM Systems
-  description: Experienced in setting up, customising and managing CRM platforms to streamline sales and marketing processes and improve customer engagement.
+- skill: Languages & Frameworks
+  description: JavaScript, TypeScript, Node.js, React and Next.js, plus working knowledge of Java for object-oriented backend fundamentals.
 
-# Communications strategy
-- skill: Marketing
-  description: Knowledgeable in digital marketing strategies, from campaign planning to execution and analysis. Hands-on experience with social media marketing, email marketing, and content marketing.
+- skill: Backend & Data
+  description: API design, service-layer business logic, validation rules, relational schema modelling, authentication/authorisation patterns, Postgres and MySQL.
 
-# Digital content development and creation
-- skill: Artificial Intelligence
-  description: Practical experience in leveraging AI tools and technologies to enhance business operations, improve customer experiences, and assist in content creation.
+- skill: Frontend Engineering
+  description: Component-based UI development for admin dashboards and internal tools, with attention to usability and operational workflows.
 
-- skill: Automation
-  description: Skilled in designing and implementing automation workflows using tools like Zapier and N8N to optimise business processes, reduce manual tasks, and improve efficiency.
+- skill: Automation & Integration
+  description: Third-party API integrations, workflow orchestration, AI/LLM integration and process automation across CRM, quoting and support journeys.
 
-- skill: Website development
-  description: Capable of building & maintaining functional and visually appealing websites & landing pages.
-
-- skill: Events management
-  description: Capable of planning, promoting, and delivering business and leisure events.
-  noprint: true
+- skill: Tooling & Platforms
+  description: Git and GitHub, Stripe billing/lifecycle integrations, n8n, Zapier, Shopify and practical production troubleshooting.
