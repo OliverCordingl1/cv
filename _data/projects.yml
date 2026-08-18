@@ -1,4 +1,16 @@
 # Projects
+- project: InspectaHQ
+  role: Full-Stack Developer
+  duration: 2025 &mdash; Present
+  url: "https://inspectahq.com"
+  description: >-
+    Working on InspectaHQ, a care management platform for domiciliary care
+    providers that brings client records, care plans, care logs, staff
+    management and service delivery workflows into one connected system.
+    Contributing across the product stack to deliver a modern, operations-focused
+    platform for care teams. Tech stack: Node.js, SvelteKit, NestJS,
+    React Router, PostgreSQL, Docker, Amazon S3 and EC2.
+
 - project: GoParking.me - Parking Management Platform
   role: Designer, Architect and Full-Stack Developer
   duration: 2025 &mdash; Present
